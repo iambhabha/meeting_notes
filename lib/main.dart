@@ -15,7 +15,7 @@ Future main() async {
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown,
   ]);
-  runApp(splashgif());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
